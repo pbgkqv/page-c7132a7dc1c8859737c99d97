@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ad5de53003e1870f7cfb9f10",
+  "owner": "pbgkqv",
+  "repo": "page-c7132a7dc1c8859737c99d97",
+  "title": "iNetS加速(iNetS)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c7132a7dc1c8859737c99d97",
+      "a": "iNetS加速(iNetS)",
+      "b": "稳定全球clash加速器",
+      "entity": "iNetS加速(iNetS)",
+      "brand": "iNetS加速(iNetS)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4ecaa65cea707832e10569cb9546ee09e06af4b12819bda0e40c197111250819",
+      "content": {
+        "primary_entity": "iNetS加速(iNetS)",
+        "keyword1": "iNetS加速(iNetS)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择订阅客户端：Windows 可用 Clash Verge 或 Clash for Windows，macOS 可选 ClashX，Android 推荐 Clash Meta for Android，iOS 可在 Shadowrocket 或 Stash 中导入订阅，路由器可借助 OpenClash 类插件。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先确认常用设备数量，再对照三档套餐流量与专线配置，选好周期即可完成订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻接入",
+          "AI_DESCRIPTION": "，iNetS加速提供基础版、旗舰版与团队版三档 Clash 订阅，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并包含 IPLC 专线，团队版每月 1000GB、支持 20 台设备，年付可进一步降低月均成本。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与节点线路三个角度，可以快速判断哪一档套餐更贴合日常使用。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 3 台设备轻度使用，每月 100GB 流量覆盖浏览与常规视频，年付 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，IPLC 专线对游戏与实时通信更友好，年付 ¥350。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点与定制路由，年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "设备数量决定档位",
+          "AI_FEATURE_TITLE_2": "专线适合游戏场景",
+          "AI_FEATURE_TITLE_3": "大流量选团队版",
+          "AI_GUIDE_INTRO": "先按设备数量与月流量选择套餐，再核对系统适配，最后依照客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "iNetS加速为多设备用户提供 Clash 订阅方案，覆盖 Windows、macOS、Android 与 iOS 常见客户端。基础版、旗舰版与团队版按月流量和设备数量区分，旗舰版含 IPLC 专线，适合对延迟敏感的游戏与实时应用。",
+          "AI_HERO_SUBTITLE": "iNetS加速多设备订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "年付降低月均成本",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年；流量、设备数与节点池随档位递增。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按常用设备数量与每月流量预估，在基础版、旗舰版、团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本与订阅格式的要求，确认设备可以正常导入。",
+          "AI_STEP_TEXT_3": "在客户端中新建订阅并粘贴链接，更新节点后测试线路延迟与连通性。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "iNetS加速 Clash 订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "iNetS加速基础版适合哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合手机、平板和笔记本等轻度使用场景，日常浏览与基础流媒体访问均可覆盖。",
+          "AI_FAQ_QUESTION_2": "旗舰版与基础版的主要差别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月300GB流量，支持5台设备同时在线，包含IPLC专线游戏加速优化和7x24优先工单支持，线路节点池也比基础版更丰富。",
+          "AI_FAQ_QUESTION_3": "团队版可以给多台设备使用吗？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量，支持20台设备同时在线，并提供VIP专属高带宽节点与企业定制路由，适合多人协作或小型团队场景。",
+          "AI_FAQ_QUESTION_4": "年付和月付在费用上有什么区别？",
+          "AI_FAQ_ANSWER_4": "基础版月付15元、年付150元；旗舰版月付35元、年付350元；团队版月付85元、年付850元。长期使用选择年付更划算。",
+          "AI_FAQ_QUESTION_5": "如何为不同设备导入订阅配置？",
+          "AI_FAQ_ANSWER_5": "选择对应系统的客户端后，参考该客户端的配置文档，将订阅信息导入并启用连接。不同平台客户端界面存在差异，按文档逐步操作即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes34jx0k8mga.org",
+    "host": "xn--mes34jx0k8mga.org"
+  },
+  "file_hashes": {
+    "index.html": "f4cd482dd1589bc6660e68c8c701182c9edbec63eb629600203949178559ac4a",
+    "sitemap.xml": "e95be6041cdf6a5a3bd8ef4d348738e45c3f54a2b0198e7829664901d073d97f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3e9700f942bdbc8b2850da09c9209f018ad1e0f2619cbed9cac945c960a75937",
+    "robots.txt": "2e0d62fa81d0ccf9a8cffcdada429f2ef6e624ba3bcea0bdb9049d176b4dbc6c",
+    "0d3e9cbc47fce64edde0afb6f840f1c6.txt": "45ae6d5ec2fd15e4824ed6f77d66f5432bf6979fec19b2cdde8109b8444be0b8"
+  },
+  "revision": "2ee8bad40b23c106bfe0df48001fc116cf2af9dd3a9dcca87db10b1d6337f557"
+}

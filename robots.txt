@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--mes34jx0k8mga.org/sitemap.xml
